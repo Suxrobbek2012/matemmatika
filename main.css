@@ -1,0 +1,42 @@
+
+.container{
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+}
+.left{
+    max-width: 1000px;
+    width: 100%;
+    box-shadow: 4px 4px 4px 4px gray;
+    margin: 0 auto;
+}
+.title{
+    font-size: 70px;
+    font-weight: 900;
+    text-align: center;
+}
+.red{
+    color: red;
+    text-shadow: 4px 4px 4px orange;
+}
+.text{
+   margin: 0 auto;
+    width: 500px;
+    font-weight: 900;
+    font-size: 50px;
+    padding-top: 200px;
+}
+.yellow{
+    text-shadow: 4px 4px 4px yellow;
+    color: green;
+}
+.blue{
+    text-shadow: 4px 4px 4px rgb(0, 217, 255);
+    color: blue;
+}
+.img2{
+border-radius: 50%;
+}
+.strelka{
+    padding-left: 850px;
+}
